@@ -1,16 +1,11 @@
-# 🌐 Zion App Network — Interlinks
+# Zion Portal
 
-**zion-portal** is part of the Zion Tech Group app network (630+ apps).
+Client workspace for engagements, tickets, and briefs.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Core Site & Hubs](https://github.com/Zion-support/zion-network/blob/main/network/core-site-hubs.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub) · [zion-network](https://github.com/Zion-support/zion-network)
+- Flagships: [agents](https://github.com/Zion-support/agents) · [ai-services](https://github.com/Zion-support/ai-services)
+- Field network: [zion-field](https://github.com/Zion-support/zion-field)
 
-## Related apps
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-- [zion-status](https://github.com/Zion-support/zion-status) — fleet & site status
-- [zion-plans](https://github.com/Zion-support/zion-plans) — plans & pricing catalog
-- [zion-tools](https://github.com/Zion-support/zion-tools) — ROI/FinOps/SLA calculators
-- [zion-agents](https://github.com/Zion-support/zion-agents) — autonomous agent fleet
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
